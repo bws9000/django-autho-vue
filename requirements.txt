@@ -4,7 +4,7 @@ cffi==1.12.2
 chardet==3.0.4
 cryptography==2.6.1
 Django==2.1.7
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 ecdsa==0.13
 future==0.17.1
